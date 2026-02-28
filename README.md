@@ -25,10 +25,9 @@ Use responsibly and only on systems you have permission to run it on.
 
 When executed, the program simulates a fake “virus” scenario such as:
 
-* Scary warning popups
-* Fake system infection messages
-* Fullscreen prank effects
-* Messages telling you to **“Touch Grass” 🌱**
+* Wallpaper change
+* Icon change
+* Video telling you to **“Touch Grass” 🌱**
 
 All effects are visual only and do not modify your system.
 

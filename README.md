@@ -75,7 +75,7 @@ You can easily modify:
 * Sound effects
 * Timing and delays
 
-Just edit the main script to create your own prank style.
+Just edit the videobsod script to create your own prank style.
 
 ---
 

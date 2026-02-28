@@ -8,7 +8,7 @@ This project is a **joke program** designed to simulate a fake virus experience 
 
 ## ⚠️ DISCLAIMER
 
-This is a **joke / prank program**.
+This is a **joke / prank program**.  
 It is completely harmless and is meant for:
 
 * Entertainment
@@ -16,7 +16,7 @@ It is completely harmless and is meant for:
 * Learning UI / popup scripting
 * Fun experiments
 
-**Do NOT use this to scare people without telling them afterward.**
+**Do NOT use this to scare people without telling them afterward.**  
 Use responsibly and only on systems you have permission to run it on.
 
 ---
@@ -46,7 +46,7 @@ All effects are visual only and do not modify your system.
 ## 🛠️ Installation
 
 Clone the repository:
-git clone https://github.com/gam3r999/TouchGrass-VirusJoke.git
+git clone https://github.com/gam3r999/TouchGrass-VirusJoke.git  
 cd TouchGrass-VirusJoke
 
 Then run the script/executable depending on the project setup.
@@ -81,28 +81,40 @@ Just edit the main script to create your own prank style.
 
 ## 🧠 Educational Purpose
 
-This project demonstrates how **fake malware simulations** work without doing any real harm.
+This project demonstrates how **fake malware simulations** work without doing any real harm.  
 It can help beginners understand UI scripting, event loops, and harmless visual effects.
 
 ---
 
 ## 🚨 Important Safety Note
 
-Always review code before running unknown programs.
+Always review code before running unknown programs.  
 Only run software you trust and understand. This repository is open-source so you can verify everything yourself.
 
 ---
 
 ## 📜 License
 
-MIT License – Feel free to modify, share, and improve!
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
+
+You are free to:
+* Share — copy and redistribute the material
+* Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+* Attribution — You must give appropriate credit.
+* NonCommercial — You may not use the material for commercial purposes.
+* ShareAlike — You must distribute your contributions under the same license.
+
+Full license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---
 
 ## 😂 Final Message
 
-Go outside…
-Touch grass 🌱
+Go outside…  
+Touch grass 🌱  
 It’s healthier than debugging all day 😭
 
 ---

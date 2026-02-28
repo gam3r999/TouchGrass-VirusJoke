@@ -122,3 +122,5 @@ It’s healthier than debugging all day 😭
 ## ⭐ Support
 
 If you enjoyed this dumb little prank, drop a ⭐ on the repo!
+
+WARNING: You need signtool in the a folder in the same directory as TouchGrass-VirusJoke. You can get it from here: https://github.com/Delphier/SignTool/releases
